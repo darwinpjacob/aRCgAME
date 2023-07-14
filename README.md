@@ -1,5 +1,6 @@
 # aRCgAME
 aRC gAME is a python project that consist of four games in it. Which can be accessed by the user for the give input of which game the user wants to play.
+
 Hangman: An interactive word-guessing game where players try to decipher a hidden word by guessing individual letters before running out of attempts.
 
 Rock Paper Scissors: A classic hand-gesture game where players choose either rock, paper, or scissors to compete against the computer and determine the winner based on predefined rules.
